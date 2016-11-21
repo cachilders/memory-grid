@@ -3,10 +3,11 @@ body {
 }
 
 .cell {
-  width: 100px;
-  height: 100px;
+  width: 4rem;
+  height: 4rem;
   display: inline-block;
-  border: 1px solid #aaa;
+  border: .1rem solid #aaa;
+  border-radius: 1rem;
   background: #f8f8f8;
-  margin-right: 4px;
+  margin: .25rem;
 }
